@@ -3,8 +3,8 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-// з1
-	byte a = 127;
+//з1
+    byte a = 127;
     short b = 200;
     int c = 4000;
     long d = 10000000001L;
